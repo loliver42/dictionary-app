@@ -12,6 +12,7 @@
   padding: 30px;
   background-color: #3b355e;
   color: white;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 20%);
 }
 
 .App-footer {

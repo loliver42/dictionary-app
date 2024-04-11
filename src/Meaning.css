@@ -1,0 +1,7 @@
+.Meaning h3 {
+  font-size: 35px;
+  font-weight: bold;
+}
+.Meaning p strong {
+  text-decoration: underline;
+}
