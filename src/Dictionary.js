@@ -50,7 +50,8 @@ export default function Dictionary(props) {
             ></input>
           </form>
           <div className="hint">
-            Suggested words: sunset, plants, wine, hunting...
+            <strong>Instructions:</strong> Type a word and push enter <br />{" "}
+            <strong>Suggested words:</strong> sunset, plants, wine, hunting...
           </div>
         </section>
         <Results results={definitions} />
